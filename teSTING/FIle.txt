@@ -7,3 +7,4 @@ FIle changed by USer1.
 
 
 Change from user 2.
+Trying to resolve conflicts.
