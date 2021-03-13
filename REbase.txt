@@ -1,1 +1,5 @@
 Commit 1 to rebase.
+
+COmmit 2 to rebase.
+
+Commit 3 to rebase.
